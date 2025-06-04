@@ -1,3 +1,5 @@
 # test
 This is my first Git repo.
-<b>Author:</b> Abhishek Sharma
+<b>Author:</b> 
+<br>
+Abhishek Sharma
